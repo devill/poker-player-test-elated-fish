@@ -1,9 +1,9 @@
 defmodule PokerPlayerElixirWeb.Player do
-  @version "0.0.1"
+  @version "AAAAALLLLL IIIIIIN"
   def version(), do: @version
 
   def bet_request(_game_state) do
-    0
+    10000
   end
 
   def showdown(_game_state) do
